@@ -1,0 +1,3 @@
+g(x)=e^-x  vai se usar esta equação. escolhe se o valor x=1.1 pois |g'(1.1)|<1
+
+g(x)=-ln(x)
