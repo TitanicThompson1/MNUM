@@ -1,22 +1,2 @@
-Escolheria a a), pois b) nao aceita x=0;
+A eq da alinea a, ao calcular um x novo, é descontinua, logo, usaria a eq da alinea b)
 
-#include <iostream>
-#include <iomanip>
-#include <cmath>
-
-using namespace std;
-
-double f(double x, double m, double R){pow(x,m)-R;};
-
-double df(double x, double m, double R){(m-1)*pow(x,m);};
-
-int main() {
-    double x,m,R;
-    int n;
-    cin>>x >> m >> R >> n;
-
-    for(int i=0;i<n;i++){
-        x = (double) x - f(x,m,R)/df(x,m,R);
-    }
-
-}

@@ -1,0 +1,2 @@
+como a equacao é descontinua em x=1, pelo metodo da bissecao, poderá ocorrer overflow dependendo do intervalo escolhido
+Pelo metodo de Picard-Peano, verifica-se que g(x)=1/B, ou seja, g é constante, nao se podendo iterar e mudar o valor de x
