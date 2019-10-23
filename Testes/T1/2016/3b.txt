@@ -1,0 +1,9 @@
+g(x,y) tem a derivada tanto em x como em y constante ( 1 e -1, respetivamente)
+
+Logo a função que influencia o ponto de partida é f(x,y)
+
+a derivada de f em y é constante, logo temos que ver a derivadade f em x
+
+Verifica se que é menor que 1 quando x pertence a [-0.5, 0.5], logo, o x do ponto pretendido tem que estar neste intervalo
+
+ponto escolhido: (1,0.2)
