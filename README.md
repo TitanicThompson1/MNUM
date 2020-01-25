@@ -13,3 +13,4 @@ Para resumos, resoluções de excercícios e testes, recomendo vivamente os segu
 - [Jumaruba](https://github.com/Jumaruba/MNUM)
 - [dianaamfr](https://github.com/dianaamfr/mnum_feup)
 - [andrefmrocha](https://github.com/andrefmrocha/MNUM_18_19)
+- [LuisMMMTS](https://github.com/LuisMMMTS/MNUM)
